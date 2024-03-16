@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color:white;
+}
+
+#clear{
+    background-color: black;
+    color:white;
+    border: 2px solid white;
+}
+#text0{
+    color:red;
+}
